@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300;400;700&display=swap');
+body{
+  background-color: darkorange;
+  text-align: center;
+  font-family: "Rowdies", sans-serif;
+}
+button{
+  width: 65px;
+  height: 35px;
+  background-color: rgb(97, 97, 231);
+  border-radius: 8px;
+  font-family: "Rowdies", sans-serif;
+}
+input{
+  border-radius: 5px;
+  width: 150px;
+  border: 0;
+  height: 35px;
+  font-family: "Rowdies", sans-serif;
+}
+.container{
+  background-color: rgb(253, 178, 40);
+  border-radius: 5px;
+  width: 50%;
+  margin: auto;
+  height: 130px;
+  font-family: "Rowdies", sans-serif;
+}
+.endereco{  
+  display: flex; 
+  flex-direction: column;
+  padding: 20px;
+  margin: 100px auto;
+  background-color: rgb(253, 178, 40);
+  width: 300px;
+  height: 200px;
+  border-radius: 8px;
+  font-family: "Rowdies", sans-serif;
+}
